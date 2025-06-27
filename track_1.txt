@@ -8,3 +8,5 @@ fourth
 sixth
 
 seventh
+
+merge conflict 2
